@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pkemo
 - 👀 I’m interested in data science and app development
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently developing django sites and learning java
 - 💞️ I’m looking to collaborate on django projects
 - 📫 How to reach me
 

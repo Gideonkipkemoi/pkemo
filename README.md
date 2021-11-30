@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pkemo
+- 👋 Hi, I’m @Gideon Kipkemoi
 - 👀 I’m interested in data science and app development
 - 🌱 I’m currently developing django sites and learning java
 - 💞️ I’m looking to collaborate on django projects

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gideon Kipkemoi
-- 👀 I’m interested in data science and app development
-- 🌱 I’m currently developing django sites and learning java
-- 💞️ I’m looking to collaborate on django projects
+- 👋 Hi, I’m Gideon Kipkemoi
+- 👀 Interested in data science and app development
+- 🌱 Currently learning django, springboot and javascript.
+- 💞️ Looking to collaborate on django projects
 - 📫 How to reach me
 
 <!---

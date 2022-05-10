@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gideon Kipkemoi
 - 👀 Interested in data science and app development
-- 🌱 Currently learning django, springboot and javascript.
+- 🌱 Currently learning django, springboot.
 - 💞️ Looking to collaborate on django projects
 - 📫 How to reach me
 
